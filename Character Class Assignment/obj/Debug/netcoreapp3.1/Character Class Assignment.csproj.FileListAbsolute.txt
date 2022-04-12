@@ -1,0 +1,14 @@
+F:\CS 30\Character Class Assignment\bin\Debug\netcoreapp3.1\Character Class Assignment.exe
+F:\CS 30\Character Class Assignment\bin\Debug\netcoreapp3.1\Character Class Assignment.deps.json
+F:\CS 30\Character Class Assignment\bin\Debug\netcoreapp3.1\Character Class Assignment.runtimeconfig.json
+F:\CS 30\Character Class Assignment\bin\Debug\netcoreapp3.1\Character Class Assignment.runtimeconfig.dev.json
+F:\CS 30\Character Class Assignment\bin\Debug\netcoreapp3.1\Character Class Assignment.dll
+F:\CS 30\Character Class Assignment\bin\Debug\netcoreapp3.1\Character Class Assignment.pdb
+F:\CS 30\Character Class Assignment\obj\Debug\netcoreapp3.1\Character Class Assignment.csproj.AssemblyReference.cache
+F:\CS 30\Character Class Assignment\obj\Debug\netcoreapp3.1\Character Class Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS 30\Character Class Assignment\obj\Debug\netcoreapp3.1\Character Class Assignment.AssemblyInfoInputs.cache
+F:\CS 30\Character Class Assignment\obj\Debug\netcoreapp3.1\Character Class Assignment.AssemblyInfo.cs
+F:\CS 30\Character Class Assignment\obj\Debug\netcoreapp3.1\Character Class Assignment.csproj.CoreCompileInputs.cache
+F:\CS 30\Character Class Assignment\obj\Debug\netcoreapp3.1\Character Class Assignment.dll
+F:\CS 30\Character Class Assignment\obj\Debug\netcoreapp3.1\Character Class Assignment.pdb
+F:\CS 30\Character Class Assignment\obj\Debug\netcoreapp3.1\Character Class Assignment.genruntimeconfig.cache
